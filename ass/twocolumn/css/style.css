@@ -1,0 +1,13 @@
+*{margin: 0px; padding: 0px;}
+.mainbody{height: 1200px; width: 100%;
+      background: wheat;}
+      .header{height: 150px; width: 100%; 
+          background: red;}
+.menu{height: 50px; width: 100%; background: pink;}
+.slider{height: 300px; width: 100%; background: orange;}
+.center{height: 600px; width: 100%; background: grey;}
+.footer{height: 100px; width: 100%; background: black;
+color: white;}
+.left{height: 600px; width: 30%; background: yellow; float: left;}
+.right{height: 600px; width: 70%; background: blueviolet; 
+    float: right;}
